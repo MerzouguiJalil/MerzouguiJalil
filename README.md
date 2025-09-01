@@ -12,22 +12,31 @@
 - 🌱 Always learning and experimenting with **new technologies**  
 
 ---
-
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="50" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" style="margin: 15px;" />
-  <img src="https://skillicons.dev/icons?i=jetpackcompose" height="50" style="margin: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="margin: 15px;" />
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin: 15px;" />
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin: 15px;" />
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" height="50" style="margin: 15px;" />
+  <!-- Figma -->
+  <img src="https://skillicons.dev/icons?i=figma" height="50" style="margin: 15px;" />
+  <!-- Node.js -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin: 15px;" />
+  <!-- NestJS -->
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" style="margin: 15px;" />
+  <!-- Kotlin -->
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" style="margin: 15px;" />
+  <!-- Android Studio -->
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" style="margin: 15px;" />
+  <!-- Firebase -->
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" style="margin: 15px;" />
+  <!-- GraphQL -->
+  <img src="https://skillicons.dev/icons?i=graphql" height="50" style="margin: 15px;" />
 </p>
+
 
 ---
 
