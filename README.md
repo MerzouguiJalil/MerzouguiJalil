@@ -33,8 +33,8 @@ Currently diving deep into **NestJS** and **GraphQL**, while exploring DevOps an
 
 ##  GitHub Stats
 
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MerzouguiJalil&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MerzouguiJalil&layout=compact&theme=tokyonight)
 
 ---
 
@@ -46,6 +46,8 @@ Currently diving deep into **NestJS** and **GraphQL**, while exploring DevOps an
 -  Increase involvement in **open-source contributions**  
 
 ---
+![Contribution Graph](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
 
 ##  Connect with Me
 
